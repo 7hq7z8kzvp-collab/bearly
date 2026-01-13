@@ -1,0 +1,8 @@
+
+{
+  "name": "ADHD Helper",
+  "description": "A focused task assistant that uses the 5-4-3-2-1 rule to help users overcome executive dysfunction. It provides voice-guided reminders, start-checks, and completion tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
